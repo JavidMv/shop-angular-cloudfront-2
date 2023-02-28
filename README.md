@@ -6,6 +6,8 @@ Link to CloudFront created via serverless-single-page-app-plugin (plugin is adde
 
 - https://d39bmy2ob5u12j.cloudfront.net/
 
+## ENDPOINTS changed
+
 # Shop Angular Cloudfront
 
 Angular version: ~12.
